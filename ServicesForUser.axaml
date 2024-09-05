@@ -1,0 +1,62 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="900" d:DesignHeight="2050"
+        x:Class="AvaloniaApplication2.ServicesForUser"
+        Title="ServicesForUser"
+		>
+	<ScrollViewer>
+		<StackPanel>
+			<TextBlock Margin="0,15,0,0" TextAlignment="Center" FontSize="70"  Name="ourService">Услуги</TextBlock>
+			<StackPanel Margin="50,20,0,0" Orientation="Horizontal">
+				<ComboBox Width="200"></ComboBox>
+				<TextBox Watermark="Поиск" Margin="50,0,0,0" Width="270"></TextBox>
+				<ComboBox Margin="50,0,0,0" Width="200"></ComboBox>
+			</StackPanel>
+			<StackPanel HorizontalAlignment="Left" Margin="50,30,0,0">
+				<ListBox CornerRadius="6" Width="650" Height="700" Background="Wheat">
+					<ListBox.ItemTemplate>
+						<DataTemplate>
+							<Border Width="630" Height="200" Background="White">
+								<StackPanel Orientation="Horizontal">
+									<Image Height="190" Width="200"></Image>
+									<StackPanel Margin="20,10,0,0" Orientation="Vertical">
+										<TextBlock ></TextBlock>
+										<StackPanel Orientation="Horizontal">
+											<TextBlock></TextBlock>
+											<TextBlock>рублей за</TextBlock>
+											<TextBlock></TextBlock>
+											<TextBlock>минут</TextBlock>
+										</StackPanel>
+										<StackPanel Orientation="Horizontal">
+											<TextBlock>Скидка</TextBlock>
+											<TextBlock></TextBlock>
+										</StackPanel>
+										<StackPanel Margin="0,40,0,0" Orientation="Horizontal">
+											<Button Click="EditService">
+												<TextBlock>Редактировать</TextBlock>
+											</Button>
+											<Button>
+												<TextBlock>Удалить</TextBlock>
+											</Button>
+										</StackPanel>
+									</StackPanel>
+								</StackPanel>
+							</Border>
+						</DataTemplate>
+					</ListBox.ItemTemplate>
+				</ListBox>
+			</StackPanel>
+			<Border Margin="0,10,100,0" Width="120" Height="20" Background="Wheat">
+				<TextBlock TextAlignment="Center">Колиечество</TextBlock>
+			</Border>
+			<Button Name="AddS" Click="Add" HorizontalAlignment="Center" Margin="0,10,100,0" Width="160"  Background="Wheat">
+				<TextBlock TextAlignment="Center">Добавить услугу</TextBlock>
+			</Button>
+			<TextBlock Name="Record" Margin="0,50,0,0" TextAlignment="Center" FontSize="30">Запись клиента на услугу</TextBlock>
+
+
+		</StackPanel>
+	</ScrollViewer>
+</Window>

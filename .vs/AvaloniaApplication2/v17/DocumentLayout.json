@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\Desktop\\222\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|c:\\users\\prdb\\desktop\\222\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|C:\\Users\\prdb\\Desktop\\222\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|C:\\Users\\prdb\\Desktop\\222\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|c:\\users\\prdb\\desktop\\222\\servicesforuser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:servicesforuser.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|c:\\users\\prdb\\desktop\\222\\addservice.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:addservice.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|c:\\users\\prdb\\desktop\\222\\servicesforuser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:servicesforuser.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|c:\\users\\prdb\\desktop\\222\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|c:\\users\\prdb\\desktop\\222\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|c:\\users\\prdb\\desktop\\222\\edit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:edit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|c:\\users\\prdb\\desktop\\222\\edit.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:edit.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|c:\\users\\prdb\\desktop\\222\\addservice.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC83152-5440-4226-95A2-9B3A3D62B895}|AvaloniaApplication2.csproj|solutionrelative:addservice.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:27:35.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicesForUser.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\ServicesForUser.axaml.cs",
+              "RelativeDocumentMoniker": "ServicesForUser.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\ServicesForUser.axaml.cs",
+              "RelativeToolTip": "ServicesForUser.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:14:46.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddService.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\AddService.axaml",
+              "RelativeDocumentMoniker": "AddService.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\AddService.axaml",
+              "RelativeToolTip": "AddService.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T10:12:04.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddService.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\AddService.axaml.cs",
+              "RelativeDocumentMoniker": "AddService.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\AddService.axaml.cs",
+              "RelativeToolTip": "AddService.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:12:04.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\Colors.cs",
+              "RelativeDocumentMoniker": "Colors.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\Colors.cs",
+              "RelativeToolTip": "Colors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:11:16.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\Info.cs",
+              "RelativeDocumentMoniker": "Info.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\Info.cs",
+              "RelativeToolTip": "Info.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:02:34.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-03T11:18:44.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:18:41.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesForUser.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\ServicesForUser.axaml",
+              "RelativeDocumentMoniker": "ServicesForUser.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\ServicesForUser.axaml",
+              "RelativeToolTip": "ServicesForUser.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T10:14:46.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\Edit.axaml.cs",
+              "RelativeDocumentMoniker": "Edit.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\Edit.axaml.cs",
+              "RelativeToolTip": "Edit.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:13:28.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\222\\Edit.axaml",
+              "RelativeDocumentMoniker": "Edit.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\222\\Edit.axaml",
+              "RelativeToolTip": "Edit.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-04T10:13:29.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

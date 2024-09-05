@@ -1,0 +1,23 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="600" d:DesignHeight="550"
+        x:Class="AvaloniaApplication2.Edit"
+        Title="Edit">
+	<StackPanel>
+		<TextBlock FontSize="20" Margin="0,10,0,0" TextAlignment="Center">Редактирование услуги</TextBlock>
+		<TextBox Watermark="Название" Margin="30,10,0,0" HorizontalAlignment="Left" Width="150"></TextBox>
+		<TextBox Watermark="Стоимость" Margin="30,10,0,0" HorizontalAlignment="Left" Width="150"></TextBox>
+		<TextBox Watermark="Длительность" Margin="30,10,0,0" HorizontalAlignment="Left" Width="150"></TextBox>
+		<TextBox Watermark="Описание" Margin="30,10,0,0" HorizontalAlignment="Left" Width="150"></TextBox>
+		<TextBox Watermark="скидка" Margin="30,10,0,0" HorizontalAlignment="Left" Width="150"></TextBox>
+		<Button  Margin="30,10,0,0">
+			<TextBlock>Изображение</TextBlock>
+		</Button>
+		<Image Margin="30,10,0,0"></Image>
+		<Button  Click="BackEdit" HorizontalAlignment="Center" Margin="0,200,0,0">
+			<TextBlock Name="EditForUser"></TextBlock>
+		</Button>
+	</StackPanel>
+</Window>
